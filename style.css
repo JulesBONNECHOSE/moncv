@@ -1,6 +1,9 @@
 h1{
     color: red;
 }
+
+
 body{
-   background-color: rgb(180, 179, 179); 
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color: rgb(180, 179, 179); 
 }
